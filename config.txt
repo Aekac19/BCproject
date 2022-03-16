@@ -1,0 +1,5 @@
+file_path=C:\Users\...\...\projectBC
+pic_path=C:\Users\...\...\projectBC\picture
+run_times=5
+delay_time=300
+url=https://app.bombcrypto.io/
